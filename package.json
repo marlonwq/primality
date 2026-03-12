@@ -1,0 +1,35 @@
+{
+  "name": "@marlonwq/primality",
+  "version": "1.0.0",
+  "description": "A high-performance TypeScript library for primality testing using Miller-Rabin and Fermat algorithms.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts --out-dir dist --clean",
+    "test": "vitest"
+  },
+  "keywords": [
+    "math",
+    "primality",
+    "primes",
+    "miller-rabin",
+    "fermat",
+    "number-theory",
+    "cryptography",
+    "RSA",
+    "RSA cryptography",
+    "performance"
+  ],
+  "author": "Márlon",
+  "license": "MIT",
+  "packageManager": "pnpm@10.28.0",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
