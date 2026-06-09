@@ -2,7 +2,7 @@
 A high-performance TypeScript library for primality testing using Miller-Rabin and Fermat algorithms. Designed with BigInt support for cryptographic-grade calculations.
 
 [![NPM Version](https://img.shields.io/npm/v/@marlonwq/primality)](https://www.npmjs.com/package/@marlonwq/primality)
-[![NPM Downloads](https://img.shields.io/npm/dm/@marlonwq/primality)](https://www.npmjs.com/package/@marlonwq/primality)
+[![NPM Downloads](https://img.shields.io/npm/dt/@marlonwq/primality)](https://www.npmjs.com/package/@marlonwq/primality)
 ![GitHub Repo stars](https://img.shields.io/github/stars/marlonwq/primality)
 [![License](https://img.shields.io/npm/l/@marlonwq/primality)](https://github.com/marlonwq/primality/blob/main/LICENSE)
 
